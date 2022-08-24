@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "name": "Sam",
+      "email": "sam@test.com",
+      "password": "sam123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "peter123",
+      "id": 2
+    },
+    {
+      "name": "siddique",
+      "email": "siddique@test.com",
+      "password": "sid123",
+      "id": 3
+    },
+    {
+      "name": "shaheen khan",
+      "email": "shaheen@test..com",
+      "password": "msd.12",
+      "id": 4
+    },
+    {
+      "name": "ali",
+      "email": "ali@test.com",
+      "password": "ali123",
+      "id": 5
+    }
+  ],
+  "Restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Novida sector 50",
+      "contact": 2212
+    },
+    {
+      "name": "Burger King",
+      "address": "California sector 20",
+      "contact": 3214,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Hot & Spicy",
+      "address": "Jadoon Phase 2",
+      "contact": 5423
+    },
+    {
+      "id": 5,
+      "name": "cafe ijaza",
+      "address": "Jadoon Phase 2",
+      "contact": 90997
+    },
+    {
+      "id": 6,
+      "name": "cafe decurnch",
+      "address": "near COMSATS Abbottabad",
+      "contact": 23344
+    },
+    {
+      "id": 7,
+      "name": "kaghan Cafe",
+      "address": "Cannt Abbottabad",
+      "contact": 5423
+    },
+    {
+      "name": "KFC2",
+      "address": "Near jadoon opposite burn hall",
+      "contact": "23122",
+      "id": 8
+    },
+    {
+      "name": "ALi Foods",
+      "address": "Abbottabad",
+      "contact": "mir pur Abbottabad",
+      "id": 9
+    }
+  ]
+}
